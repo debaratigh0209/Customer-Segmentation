@@ -1,0 +1,255 @@
+Age,Gender,Subscription Status,Category,Review Rating,Purchase Amount (USD),Item Purchased,Frequency of Purchases
+55,Male,No,Electronics,2,53,Blouse,Fortnightly
+19,Male,No,Electronics,2,64,Sweater,Fortnightly
+50,Female,No,"Fashion ( Makeup, cosmetics, Perfume etc )",4,73,Jeans,Weekly
+21,Male,Yes,Clothing,3,90,Sandals,Weekly
+45,Female,No,"Fashion ( Makeup, cosmetics, Perfume etc )",4,49,Blouse,Annually
+46,Female,Yes,Clothing,2,20,Sneakers,Weekly
+63,Male,Maybe,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",2,85,Shirt,Quarterly
+27,Male,Yes,Electronics,3,34,Shorts,Weekly
+26,Female,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",4,97,Coat,Annually
+57,Female,Maybe,Books,1,31,Handbag,Quarterly
+53,Male,No,Clothing,1,34,Shoes,Bi-Weekly
+30,Female,No,Books,4,68,Shorts,Fortnightly
+61,Male,Yes,Clothing,4,72,Coat,Fortnightly
+65,Female,No,"Fashion ( Makeup, cosmetics, Perfume etc )",4,51,Dress,Weekly
+64,Female,No,"Fashion ( Makeup, cosmetics, Perfume etc )",5,53,Coat,Weekly
+64,Male,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",5,81,Skirt,Monthly
+25,Female,Yes,Electronics,1,36,Sunglasses,Bi-Weekly
+53,Male,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",4,38,Dress,Quarterly
+52,Female,No,"Fashion ( Makeup, cosmetics, Perfume etc )",5,48,Sweater,Weekly
+66,Male,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",3,90,Pants,Bi-Weekly
+21,Male,Yes,Electronics,1,51,Pants,Every 3 Months
+31,Female,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",2,62,Pants,Quarterly
+56,Male,Yes,Electronics,2,37,Pants,Annually
+31,Female,Yes,Clothing,3,88,Pants,Weekly
+18,Female,No,Books,1,22,Jacket,Weekly
+18,Male,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",5,25,Hoodie,Annually
+38,Male,No,Clothing,3,20,Jewelry,Annually
+56,Female,No,"Fashion ( Makeup, cosmetics, Perfume etc )",4,56,Shorts,Every 3 Months
+54,Male,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",3,94,Handbag,Every 3 Months
+31,Female,Yes,Home decor ,1,48,Dress,Weekly
+57,Female,No,"Fashion ( Makeup, cosmetics, Perfume etc )",4,31,Jewelry,Monthly
+33,Male,Maybe,Books,3,79,Dress,Monthly
+36,Male,Yes,Electronics,1,67,Jacket,Annually
+54,Female,Yes,Books,3,38,Pants,Quarterly
+36,Male,No,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",1,91,T-shirt,Quarterly
+54,Male,Yes,Clothing,3,33,Blouse,Bi-Weekly
+35,Female,No,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",3,69,T-shirt,Fortnightly
+35,Female,Maybe,Books,1,45,Jeans,Weekly
+29,Male,Yes,Clothing,1,37,Dress,Every 3 Months
+70,Male,Yes,Clothing,1,60,Pants,Monthly
+69,Female,Yes,Clothing,1,76,Handbag,Quarterly
+67,Male,No,Electronics,3,39,Scarf,Annually
+20,Male,Maybe,Books,1,100,Coat,Annually
+25,Male,No,Electronics,1,69,Scarf,Fortnightly
+39,Male,Yes,Clothing,4,53,Hat,Weekly
+50,Female,Yes,Clothing,2,21,Socks,Annually
+57,Male,No,Electronics,1,43,Shirt,Quarterly
+55,Female,Maybe,"Fashion ( Makeup, cosmetics, Perfume etc )",3,54,Jewelry,Weekly
+42,Male,Maybe,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",4,55,Shirt,Monthly
+68,Male,Maybe,Books,2,30,Hoodie,Bi-Weekly
+49,Female,No,Electronics,1,28,Blouse,Bi-Weekly
+59,Male,Yes,Clothing,2,59,Skirt,Quarterly
+42,Male,No,Books,3,20,T-shirt,Weekly
+29,Male,Yes,Clothing,4,24,Skirt,Weekly
+47,Female,Yes,Kitchen utensils,3,94,Coat,Bi-Weekly
+40,Male,No,Electronics,1,28,Jacket,Annually
+41,Female,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",3,73,Backpack,Weekly
+21,Female,Yes,Clothing,3,64,Coat,Fortnightly
+69,Male,Yes,Electronics,1,54,Hoodie,Monthly
+63,Female,No,Clothing,4,79,Belt,Weekly
+50,Female,Yes,Clothing,3,37,Sweater,Weekly
+55,Female,No,Books,2,68,Scarf,Every 3 Months
+30,Female,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",4,21,Sneakers,Fortnightly
+33,Male,No,Electronics,4,79,Sunglasses,Weekly
+65,Female,Yes,Electronics,2,83,Boots,Fortnightly
+65,Female,No,Clothing,1,36,Backpack,Every 3 Months
+31,Female,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",3,94,Blouse,Every 3 Months
+45,Male,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",1,33,Coat,Monthly
+57,Female,No,"Fashion ( Makeup, cosmetics, Perfume etc )",1,46,Handbag,Every 3 Months
+48,Male,No,Books,1,70,Belt,Weekly
+22,Female,Yes,Clothing,4,29,Belt,Every 3 Months
+36,Male,Maybe,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",4,48,Dress,Annually
+18,Female,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",3,26,Dress,Every 3 Months
+48,Female,No,"Fashion ( Makeup, cosmetics, Perfume etc )",2,85,Pants,Bi-Weekly
+49,Male,No,Clothing,3,58,Gloves,Monthly
+64,Female,No,Books,5,85,Scarf,Annually
+50,Male,Yes,Clothing,4,43,Hat,Monthly
+22,Female,Yes,Clothing,2,53,Dress,Fortnightly
+50,Male,Yes,Electronics,3,91,Skirt,Fortnightly
+38,Female,No,"Fashion ( Makeup, cosmetics, Perfume etc )",5,96,Jacket,Every 3 Months
+19,Male,Maybe,Electronics,2,72,Sandals,Every 3 Months
+67,Male,Maybe,Clothing,4,96,Shoes,Every 3 Months
+19,Male,Maybe,Electronics,2,28,Pants,Every 3 Months
+36,Female,Yes,Clothing,3,40,Dress,Weekly
+52,Female,Maybe,"Fashion ( Makeup, cosmetics, Perfume etc )",3,32,Coat,Every 3 Months
+53,Male,No,Electronics,3,95,Sunglasses,Bi-Weekly
+24,Male,No,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",3,41,Hoodie,Bi-Weekly
+52,Female,No,Clothing,1,53,Shoes,Fortnightly
+33,Female,Maybe,Clothing,2,47,T-shirt,Monthly
+47,Male,No,Electronics,1,83,Jacket,Quarterly
+25,Female,Yes,Clothing,1,48,Hat,Monthly
+44,Male,Yes,Electronics,4,99,Scarf,Every 3 Months
+61,Female,Maybe,Books,1,87,Jacket,Every 3 Months
+37,Male,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",1,62,Sweater,Weekly
+58,Male,Yes,Clothing,4,76,Skirt,Weekly
+37,Female,Yes,Electronics,1,100,Sneakers,Monthly
+32,Male,No,Clothing,4,73,Gloves,Every 3 Months
+21,Male,Maybe,Books,3,92,Shoes,Annually
+20,Male,No,Clothing,2,67,Jeans,Annually
+26,Female,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",4,40,Hoodie,Quarterly
+62,Male,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",5,98,Sunglasses,Fortnightly
+27,Male,No,Clothing,4,85,Coat,Bi-Weekly
+51,Male,No,Books,3,67,Socks,Quarterly
+54,Female,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",3,89,Boots,Bi-Weekly
+55,Female,No,Clothing,3,24,Sunglasses,Monthly
+69,Female,No,"Fashion ( Makeup, cosmetics, Perfume etc )",5,96,Backpack,Annually
+64,Male,No,Electronics,1,35,Jacket,Monthly
+28,Female,No,Clothing,2,67,Sneakers,Fortnightly
+70,Male,Yes,Clothing,2,79,Socks,Bi-Weekly
+58,Male,Maybe,Electronics,3,85,T-shirt,Fortnightly
+56,Male,Maybe,"Fashion ( Makeup, cosmetics, Perfume etc )",1,26,Backpack,Fortnightly
+26,Male,Maybe,Clothing,1,75,Belt,Annually
+37,Male,No,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",5,65,Gloves,Bi-Weekly
+44,Male,Maybe,Clothing,1,54,Hat,Quarterly
+70,Male,Maybe,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",1,95,Coat,Weekly
+53,Male,Maybe,Electronics,3,94,Skirt,Every 3 Months
+55,Female,Maybe,Clothing,1,86,Shoes,Annually
+50,Female,No,Clothing,2,32,Sandals,Fortnightly
+50,Male,No,Electronics,2,45,Sweater,Bi-Weekly
+38,Female,Yes,Clothing,2,76,Coat,Annually
+64,Female,No,"Fashion ( Makeup, cosmetics, Perfume etc )",4,84,Hat,Annually
+19,Female,Maybe,Books,3,72,Shorts,Fortnightly
+40,Female,Maybe,Books,3,40,Backpack,Fortnightly
+57,Male,No,Clothing,3,89,Sweater,Weekly
+44,Male,Maybe,Electronics,4,86,Sweater,Annually
+49,Male,No,Clothing,4,54,Shorts,Every 3 Months
+43,Female,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",4,36,Shorts,Every 3 Months
+24,Male,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",2,89,Sweater,Weekly
+20,Male,No,Books,4,32,Scarf,Fortnightly
+24,Male,No,Clothing,3,67,Dress,Bi-Weekly
+44,Female,Maybe,"Fashion ( Makeup, cosmetics, Perfume etc )",2,39,Scarf,Fortnightly
+28,Male,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",1,29,Skirt,Weekly
+30,Female,Maybe,Electronics,2,58,Backpack,Weekly
+52,Female,No,Netflux,3,65,Sweater,Annually
+43,Female,No,Clothing,4,94,Hat,Monthly
+43,Male,Maybe,Electronics,3,81,Sandals,Quarterly
+39,Male,Yes,Electronics,5,86,Blouse,Quarterly
+68,Female,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",5,43,Sneakers,Weekly
+68,Female,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",5,29,Skirt,Weekly
+49,Female,Yes,Clothing,5,95,Coat,Annually
+63,Male,Yes,Books,2,28,Shirt,Weekly
+56,Male,Maybe,Clothing,1,46,Gloves,Weekly
+37,Male,No,Electronics,2,58,Jacket,Fortnightly
+30,Male,No,Clothing,2,48,Coat,Quarterly
+19,Male,No,Daily use items ,3,43,Shoes,Monthly
+24,Male,Maybe,Clothing,4,95,Jewelry,Quarterly
+52,Male,No,Electronics,1,30,Skirt,Fortnightly
+63,Male,Yes,Clothing,3,64,Shoes,Fortnightly
+37,Male,Maybe,Electronics,2,90,Gloves,Annually
+38,Male,Maybe,Clothing,3,76,Pants,Monthly
+35,Male,Maybe,Clothing,1,96,Boots,Every 3 Months
+28,Male,Yes,Books,2,47,Sunglasses,Annually
+30,Male,Maybe,Electronics,1,85,Shirt,Annually
+69,Female,No,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",5,55,Hoodie,Annually
+41,Male,Maybe,Books,4,98,Dress,Quarterly
+63,Male,Maybe,Food items ,3,77,Socks,Quarterly
+35,Male,Maybe,Food items ,3,26,Shorts,Annually
+36,Male,Maybe,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",2,68,Hat,Fortnightly
+25,Female,Maybe,Clothing,3,73,Shirt,Monthly
+58,Female,Maybe,Clothing,3,27,Gloves,Every 3 Months
+27,Male,No,Clothing,4,23,Gloves,Monthly
+65,Male,No,Clothing,2,49,Backpack,Fortnightly
+54,Male,No,Clothing,0,74,Sunglasses,Bi-Weekly
+54,Male,Yes,Clothing,1,67,Skirt,Weekly
+59,Male,No,Clothing,2,65,Handbag,Fortnightly
+42,Male,Yes,Clothing,4,60,Handbag,Monthly
+46,Male,No,Books,3,31,Sneakers,Monthly
+33,Male,Yes,Food,4,27,Gloves,Every 3 Months
+34,Male,Yes,Clothing,5,80,Shoes,Fortnightly
+27,Male,Maybe,Clothing,1,30,Jacket,Every 3 Months
+52,Male,Maybe,Clothing,3,25,Shirt,Bi-Weekly
+29,Male,No,Electronics,1,35,Shorts,Weekly
+54,Male,Maybe,Clothing,1,67,Jewelry,Bi-Weekly
+25,Male,No,Electronics,2,46,Hat,Annually
+41,Male,Yes,Food,5,35,Shoes,Annually
+53,Male,Maybe,Clothing,1,86,Coat,Annually
+53,Male,Yes,Household goods ,2,81,Backpack,Quarterly
+21,Male,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",2,42,Hoodie,Monthly
+61,Male,No,Books,2,43,Skirt,Quarterly
+64,Male,Maybe,Electronics,4,31,Boots,Fortnightly
+51,Male,No,Clothing,5,81,Sandals,Fortnightly
+32,Female,Maybe,Clothing,1,61,Pants,Weekly
+38,Male,No,Clothing,1,96,Gloves,Annually
+58,Male,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",1,29,Skirt,Weekly
+32,Male,Yes,Clothing,5,33,Sneakers,Fortnightly
+46,Male,Maybe,Grocery,3,32,T-shirt,Fortnightly
+39,Male,No,Clothing,2,56,Backpack,Annually
+19,Male,No,Clothing,2,94,Shoes,Bi-Weekly
+50,Male,Yes,Clothing,1,53,Hoodie,Bi-Weekly
+36,Male,No,"Fashion ( Makeup, cosmetics, Perfume etc )",2,82,Blouse,Weekly
+65,Male,No,Electronics,1,70,Coat,Quarterly
+64,Male,Maybe,"Fashion ( Makeup, cosmetics, Perfume etc )",3,76,Hat,Every 3 Months
+46,Male,No,Daily needs,2,29,Shoes,Bi-Weekly
+36,Male,Maybe,Liquor,5,100,Belt,Annually
+51,Male,Maybe,Electronics,0,94,Backpack,Quarterly
+51,Male,Maybe,Clothing,1,25,Jacket,Monthly
+38,Male,Yes,Electronics,1,88,Boots,Fortnightly
+59,Female,No,Clothing,2,78,Scarf,Monthly
+57,Female,Yes,Household products,5,45,Jewelry,Fortnightly
+54,Female,Yes,House products,4,73,Hat,Weekly
+25,Male,Maybe,Electronics,1,61,Dress,Monthly
+69,Female,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",4,22,Blouse,Annually
+57,Female,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",5,38,Hat,Annually
+70,Female,Yes,Household,5,38,Scarf,Weekly
+24,Male,Yes,Clothing,1,100,Sneakers,Bi-Weekly
+67,Female,Maybe,Clothing,2,64,Shirt,Weekly
+24,Male,No,Electronics,1,55,T-shirt,Fortnightly
+62,Male,Yes,Home products,4,91,Gloves,Bi-Weekly
+57,Female,No,Food products,5,38,Skirt,Monthly
+55,Male,No,Clothing,2,97,Sandals,Every 3 Months
+45,Female,Yes,Books,1,22,Jacket,Fortnightly
+69,Male,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",4,92,Skirt,Fortnightly
+67,Female,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",1,84,Handbag,Annually
+30,Male,Maybe,Clothing,1,93,Handbag,Every 3 Months
+24,Male,Maybe,Clothing,1,50,Jacket,Every 3 Months
+62,Male,Maybe,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",2,64,Scarf,Bi-Weekly
+43,Female,No,Electronics,1,61,Shorts,Weekly
+35,Male,Yes,Books,1,48,Sunglasses,Annually
+28,Female,No,Clothing,4,45,T-shirt,Quarterly
+32,Male,Yes,Electronics,1,88,Belt,Fortnightly
+39,Male,Yes,Clothing,1,57,Sneakers,Fortnightly
+28,Female,Maybe,"Fashion ( Makeup, cosmetics, Perfume etc )",2,68,Hat,Quarterly
+47,Female,Yes,Clothing,3,94,Gloves,Fortnightly
+20,Male,No,Books,1,41,Pants,Annually
+63,Female,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",4,83,Socks,Every 3 Months
+25,Female,Yes,Books,2,22,Jacket,Annually
+29,Male,Yes,Electronics,1,74,Shoes,Monthly
+50,Female,No,Books,1,90,Jeans,Fortnightly
+18,Female,No,Books,1,79,Socks,Annually
+70,Female,Yes,Books,1,28,Sandals,Every 3 Months
+66,Female,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",4,88,Scarf,Annually
+28,Male,No,Electronics,1,26,Blouse,Every 3 Months
+54,Male,No,"Fashion ( Makeup, cosmetics, Perfume etc )",2,27,Jewelry,Bi-Weekly
+19,Female,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",3,83,Sweater,Every 3 Months
+20,Female,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",1,39,Gloves,Weekly
+43,Male,Maybe,Electronics,1,89,Sunglasses,Quarterly
+38,Female,Yes,Clothing,1,68,Coat,Fortnightly
+50,Female,No,House products,4,90,Dress,Fortnightly
+64,Female,No,Books,1,34,Skirt,Annually
+49,Male,Yes,"Fashion ( Makeup, cosmetics, Perfume etc )",1,51,Pants,Bi-Weekly
+47,Female,Yes,Clothing,4,45,Sweater,Fortnightly
+36,Male,No,Books,0,88,Hoodie,Bi-Weekly
+55,Female,No,Clothing,2,85,Coat,Every 3 Months
+25,Female,Yes,Clothing,4,100,Jewelry,Monthly
+53,Male,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",4,42,Belt,Weekly
+49,Female,No,"Fashion ( Makeup, cosmetics, Perfume etc )",4,53,Sandals,Fortnightly
+35,Male,Maybe,Food,4,86,Sunglasses,Bi-Weekly
+29,Female,Yes,Books,1,66,Sweater,Weekly
+47,Male,No,Electronics,4,100,Belt,Weekly
+53,Female,Maybe,Electronics,1,47,Handbag,Annually
+33,Male,Yes,Clothing,2,25,Skirt,Weekly
+21,Female,Maybe,"Fashion ( Makeup, cosmetics, Perfume etc )",1,51,Handbag,Annually
+32,Male,Yes,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",4,41,Shorts,Fortnightly
+52,Female,No,"OTT Subscriptions ( Netflix , Amazon , prime video etc )",1,73,Boots,Bi-Weekly

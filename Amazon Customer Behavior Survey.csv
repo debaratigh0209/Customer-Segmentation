@@ -1,0 +1,603 @@
+Age,Gender,Category,Frequency of Purchases,Review Rating,Item Purchased,Purchase Amount (USD),Subscription Status
+23,Female,Beauty and Personal Care,Occasionally,1,Blouse,53,Yes
+23,Female,Clothing and Fashion,Heavily,2,Sweater,64,Yes
+24,Prefer not to say,Groceries and Gourmet Food;Clothing and Fashion,Occasionally,3,Jeans,73,Yes
+24,Female,Beauty and Personal Care;Clothing and Fashion;others,Heavily,4,Sandals,90,Yes
+22,Female,Beauty and Personal Care;Clothing and Fashion,Heavily,2,Blouse,49,Yes
+21,Female,Clothing and Fashion,Heavily,2,Sneakers,20,Yes
+22,Female,Clothing and Fashion,Heavily,3,Shirt,85,Yes
+21,Female,Beauty and Personal Care;Clothing and Fashion,Heavily,3,Shorts,34,Yes
+20,Female,Beauty and Personal Care;Clothing and Fashion,Moderately,2,Coat,97,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion,Heavily,4,Handbag,31,Yes
+22,Female,Clothing and Fashion,Heavily,2,Shoes,34,Yes
+25,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,1,Shorts,68,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion,Heavily,2,Coat,72,Yes
+24,Female,Clothing and Fashion;Home and Kitchen,Moderately,2,Dress,51,Yes
+21,Female,Beauty and Personal Care,Heavily,1,Coat,53,Yes
+23,Female,others,Heavily,3,Skirt,81,Yes
+16,Male,Clothing and Fashion;others,Heavily,2,Sunglasses,36,Yes
+21,Female,Clothing and Fashion,Heavily,1,Dress,38,Yes
+23,Female,Beauty and Personal Care;Home and Kitchen,Moderately,2,Sweater,48,Yes
+25,Female,Beauty and Personal Care,Heavily,2,Pants,90,Yes
+64,Male,Groceries and Gourmet Food,Occasionally,2,Pants,51,Yes
+23,Female,Clothing and Fashion,Heavily,2,Pants,62,Yes
+21,Male,others,Never,3,Pants,37,Yes
+16,Female,Clothing and Fashion,Moderately,2,Pants,88,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion;others,Heavily,1,Jacket,22,Yes
+24,Female,Groceries and Gourmet Food,Moderately,3,Hoodie,25,Yes
+22,Female,Beauty and Personal Care;Clothing and Fashion,Heavily,2,Jewelry,20,Yes
+23,Female,Beauty and Personal Care,Occasionally,5,Shorts,56,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion;others,Heavily,2,Handbag,94,Yes
+24,Female,Clothing and Fashion,Occasionally,4,Dress,48,Yes
+25,Female,Groceries and Gourmet Food;Clothing and Fashion;others,Heavily,4,Jewelry,31,Yes
+23,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,4,Dress,79,Yes
+23,Female,others,Occasionally,3,Jacket,67,Yes
+23,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,1,Pants,38,Yes
+23,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,1,T-shirt,91,Yes
+24,Female,others,Heavily,1,Blouse,33,Yes
+24,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Occasionally,1,T-shirt,69,Yes
+23,Female,Beauty and Personal Care;Home and Kitchen,Moderately,2,Jeans,45,Yes
+29,Male,Clothing and Fashion,Moderately,2,Dress,37,Yes
+19,Female,Clothing and Fashion,Rarely,5,Pants,60,Yes
+26,Female,others,Moderately,2,Handbag,76,Yes
+32,Male,others,Moderately,1,Scarf,39,Yes
+30,Female,Home and Kitchen,Moderately,1,Coat,100,Yes
+22,Female,Beauty and Personal Care;others,Moderately,2,Scarf,69,Yes
+26,Female,Beauty and Personal Care;Clothing and Fashion,Moderately,2,Hat,53,Yes
+24,Female,Beauty and Personal Care;Clothing and Fashion,Heavily,1,Socks,21,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,4,Shirt,43,Yes
+24,Female,Clothing and Fashion,Occasionally,3,Jewelry,54,Yes
+23,Female,others,Heavily,3,Shirt,55,Yes
+24,Male,Clothing and Fashion,Heavily,2,Hoodie,30,Yes
+23,Female,Beauty and Personal Care;Home and Kitchen,Heavily,3,Blouse,28,Yes
+25,Male,others,Heavily,3,Skirt,59,Yes
+24,Female,Beauty and Personal Care;Clothing and Fashion,Heavily,2,T-shirt,20,Yes
+21,Female,Home and Kitchen,Heavily,1,Skirt,24,Yes
+23,Female,Clothing and Fashion,Moderately,3,Coat,94,Yes
+26,Female,Beauty and Personal Care;Home and Kitchen,Heavily,2,Jacket,28,Yes
+23,Female,Clothing and Fashion;others,Moderately,2,Backpack,73,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion,Heavily,3,Coat,64,Yes
+40,Male,Beauty and Personal Care;Home and Kitchen,Heavily,1,Hoodie,54,Yes
+25,Female,Beauty and Personal Care,Moderately,3,Belt,79,Yes
+24,Male,others,Moderately,2,Sweater,37,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Rarely,3,Scarf,68,Yes
+24,Male,others,Heavily,2,Sneakers,21,Yes
+24,Male,others,Heavily,3,Sunglasses,79,Yes
+24,Female,Beauty and Personal Care;Clothing and Fashion,Occasionally,3,Boots,83,Yes
+26,Male,others,Occasionally,4,Backpack,36,Yes
+23,Female,Beauty and Personal Care;Home and Kitchen;others,Heavily,3,Blouse,94,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,1,Coat,33,Yes
+24,Female,others,Occasionally,2,Handbag,46,Yes
+23,Male,others,Moderately,3,Belt,70,Yes
+24,Female,Beauty and Personal Care;Clothing and Fashion,Moderately,2,Belt,29,Yes
+36,Female,Home and Kitchen;others,Heavily,1,Dress,48,Yes
+26,Male,Home and Kitchen,Moderately,1,Dress,26,Yes
+31,Male,Home and Kitchen;others,Heavily,1,Pants,85,Yes
+23,Male,others,Heavily,2,Gloves,58,Yes
+23,Female,Home and Kitchen,Heavily,2,Scarf,85,Yes
+30,Male,Groceries and Gourmet Food;Home and Kitchen,Moderately,4,Hat,43,Yes
+24,Female,others,Moderately,2,Dress,53,Yes
+47,Prefer not to say,others,Never,2,Skirt,91,Yes
+54,Others,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,5,Jacket,96,Yes
+58,Male,Clothing and Fashion;others,Never,3,Sandals,72,Yes
+53,Female,Home and Kitchen,Moderately,1,Shoes,96,Yes
+23,Prefer not to say,Beauty and Personal Care,Occasionally,3,Pants,28,Yes
+25,Others,Groceries and Gourmet Food;Clothing and Fashion,Occasionally,3,Dress,40,Yes
+23,Female,Beauty and Personal Care,Occasionally,2,Coat,32,Yes
+32,Male,Clothing and Fashion;Home and Kitchen,Moderately,4,Sunglasses,95,Yes
+30,Prefer not to say,Beauty and Personal Care;Clothing and Fashion,Heavily,3,Hoodie,41,Yes
+28,Others,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Occasionally,3,Shoes,53,Yes
+20,Female,Beauty and Personal Care;Clothing and Fashion,Occasionally,3,T-shirt,47,Yes
+25,Male,others,Moderately,3,Jacket,83,Yes
+55,Others,Groceries and Gourmet Food,Rarely,3,Hat,48,Yes
+24,Female,Beauty and Personal Care;Home and Kitchen;others,Moderately,4,Scarf,99,Yes
+62,Female,Beauty and Personal Care,Never,3,Jacket,87,Yes
+27,Male,others,Never,5,Sweater,62,Yes
+34,Prefer not to say,Beauty and Personal Care;Clothing and Fashion,Occasionally,2,Skirt,76,Yes
+40,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Occasionally,2,Sneakers,100,Yes
+22,Others,others,Rarely,4,Gloves,73,Yes
+34,Prefer not to say,Clothing and Fashion;Home and Kitchen,Heavily,2,Shoes,92,Yes
+24,Female,Beauty and Personal Care;Home and Kitchen,Heavily,1,Jeans,67,Yes
+44,Male,Clothing and Fashion;others,Never,2,Hoodie,40,Yes
+31,Female,Home and Kitchen;others,Never,2,Sunglasses,98,Yes
+23,Female,Clothing and Fashion,Occasionally,3,Coat,85,Yes
+23,Female,Beauty and Personal Care;others,Heavily,1,Socks,67,Yes
+22,Female,Clothing and Fashion;Home and Kitchen,Heavily,3,Boots,89,Yes
+24,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,1,Sunglasses,24,Yes
+23,Prefer not to say,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,1,Backpack,96,Yes
+25,Male,others,Moderately,3,Jacket,35,Yes
+23,Male,Clothing and Fashion,Moderately,2,Sneakers,67,Yes
+24,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Socks,79,Yes
+24,Female,others,Moderately,2,T-shirt,85,Yes
+26,Female,others,Moderately,1,Backpack,26,Yes
+25,Female,Clothing and Fashion,Moderately,3,Belt,75,Yes
+26,Male,Clothing and Fashion;others,Occasionally,3,Gloves,65,Yes
+29,Male,others,Moderately,4,Hat,54,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,4,Coat,95,Yes
+30,Male,Clothing and Fashion;Home and Kitchen,Moderately,2,Skirt,94,Yes
+23,Female,Beauty and Personal Care;Home and Kitchen,Heavily,3,Shoes,86,Yes
+21,Female,Clothing and Fashion,Heavily,3,Sandals,32,Yes
+23,Female,Beauty and Personal Care;Home and Kitchen,Moderately,2,Sweater,45,Yes
+21,Female,Clothing and Fashion,Moderately,3,Coat,76,Yes
+23,Female,Clothing and Fashion;others,Moderately,1,Hat,84,Yes
+27,Male,others,Moderately,1,Shorts,72,Yes
+38,Female,Beauty and Personal Care;Home and Kitchen,Moderately,2,Backpack,40,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion,Heavily,2,Sweater,89,Yes
+38,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Sweater,86,Yes
+23,Male,others,Heavily,3,Shorts,54,Yes
+24,Male,Clothing and Fashion;others,Occasionally,2,Shorts,36,Yes
+25,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,2,Sweater,89,Yes
+26,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,1,Scarf,32,Yes
+27,Male,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Occasionally,2,Dress,67,Yes
+29,Prefer not to say,Beauty and Personal Care,Occasionally,1,Scarf,39,Yes
+35,Prefer not to say,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Never,2,Skirt,29,Yes
+21,Female,Beauty and Personal Care;Clothing and Fashion,Heavily,1,Backpack,58,Yes
+36,Male,Beauty and Personal Care;Home and Kitchen,Occasionally,3,Sweater,65,Yes
+44,Female,Beauty and Personal Care,Occasionally,2,Hat,94,Yes
+32,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,1,Sandals,81,Yes
+30,Male,Groceries and Gourmet Food;Beauty and Personal Care;Home and Kitchen,Moderately,2,Blouse,86,Yes
+36,Others,others,Never,5,Sneakers,43,Yes
+25,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,1,Skirt,29,Yes
+20,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,1,Coat,95,Yes
+35,Female,Beauty and Personal Care,Occasionally,3,Shirt,28,Yes
+42,Male,Groceries and Gourmet Food;Home and Kitchen;others,Heavily,1,Gloves,46,Yes
+37,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,1,Jacket,58,Yes
+28,Female,Beauty and Personal Care;Clothing and Fashion;others,Heavily,1,Coat,48,Yes
+27,Male,Beauty and Personal Care;Home and Kitchen,Heavily,2,Shoes,43,Yes
+45,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Jewelry,95,Yes
+35,Male,Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen;others,Heavily,1,Skirt,30,Yes
+50,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Shoes,64,Yes
+54,Female,Beauty and Personal Care;others,Moderately,2,Gloves,90,Yes
+29,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,1,Pants,76,Yes
+63,Male,Groceries and Gourmet Food;Home and Kitchen;others,Heavily,2,Boots,96,Yes
+24,Male,Beauty and Personal Care;Clothing and Fashion,Heavily,1,Sunglasses,47,Yes
+23,Female,Beauty and Personal Care,Heavily,1,Shirt,85,Yes
+26,Female,Beauty and Personal Care;Clothing and Fashion,Occasionally,1,Hoodie,55,Yes
+29,Male,Beauty and Personal Care;Clothing and Fashion,Rarely,1,Dress,98,Yes
+46,Prefer not to say,Beauty and Personal Care;Clothing and Fashion,Moderately,2,Socks,77,Yes
+24,Male,others,Occasionally,5,Shorts,26,Yes
+33,Female,Groceries and Gourmet Food;Beauty and Personal Care,Occasionally,2,Hat,68,Yes
+33,Female,Beauty and Personal Care;others,Occasionally,1,Shirt,73,Yes
+31,Prefer not to say,Clothing and Fashion,Heavily,4,Gloves,27,Yes
+40,Prefer not to say,Clothing and Fashion;Home and Kitchen,Occasionally,2,Gloves,23,Yes
+37,Male,Beauty and Personal Care;Clothing and Fashion,Occasionally,4,Backpack,49,Yes
+25,Prefer not to say,Beauty and Personal Care,Heavily,2,Sunglasses,74,Yes
+60,Female,Beauty and Personal Care;Clothing and Fashion,Occasionally,3,Skirt,67,Yes
+18,Female,Groceries and Gourmet Food;Beauty and Personal Care,Rarely,4,Handbag,65,Yes
+50,Male,Clothing and Fashion;Home and Kitchen;others,Occasionally,4,Handbag,60,Yes
+24,Prefer not to say,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Occasionally,3,Sneakers,31,Yes
+19,Female,Beauty and Personal Care;Clothing and Fashion,Occasionally,2,Gloves,27,Yes
+18,Female,Beauty and Personal Care;Clothing and Fashion;others,Moderately,1,Shoes,80,Yes
+17,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion,Moderately,2,Jacket,30,Yes
+27,Female,Beauty and Personal Care,Heavily,2,Shirt,25,Yes
+23,Male,Beauty and Personal Care;Home and Kitchen;others,Heavily,2,Shorts,35,Yes
+35,Female,Beauty and Personal Care,Occasionally,2,Jewelry,67,Yes
+57,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Occasionally,1,Hat,46,Yes
+54,Male,Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen,Moderately,2,Shoes,35,Yes
+26,Prefer not to say,Beauty and Personal Care,Heavily,2,Coat,86,Yes
+46,Male,Beauty and Personal Care,Heavily,2,Backpack,81,Yes
+26,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Moderately,2,Hoodie,42,Yes
+24,Male,others,Heavily,2,Skirt,43,Yes
+26,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion,Heavily,1,Boots,31,Yes
+27,Male,Clothing and Fashion,Heavily,2,Sandals,81,Yes
+22,Female,Beauty and Personal Care,Moderately,3,Pants,61,Yes
+24,Male,Beauty and Personal Care,Occasionally,3,Gloves,96,Yes
+25,Male,Beauty and Personal Care,Occasionally,3,Skirt,29,Yes
+22,Prefer not to say,Beauty and Personal Care,Heavily,3,Sneakers,33,Yes
+27,Male,others,Heavily,1,T-shirt,32,Yes
+23,Female,Clothing and Fashion;Home and Kitchen,Moderately,2,Backpack,56,Yes
+24,Male,Clothing and Fashion,Heavily,3,Shoes,94,Yes
+24,Female,Beauty and Personal Care,Moderately,3,Hoodie,53,Yes
+23,Female,Clothing and Fashion,Heavily,4,Blouse,82,Yes
+23,Male,Clothing and Fashion;others,Heavily,3,Coat,70,Yes
+25,Female,Groceries and Gourmet Food,Moderately,3,Hat,76,Yes
+21,Male,Groceries and Gourmet Food,Occasionally,3,Shoes,29,Yes
+36,Female,Groceries and Gourmet Food,Occasionally,4,Belt,100,Yes
+23,Female,Beauty and Personal Care,Occasionally,3,Backpack,94,Yes
+23,Female,Clothing and Fashion,Occasionally,3,Jacket,25,Yes
+23,Prefer not to say,Clothing and Fashion,Occasionally,3,Boots,88,Yes
+21,Female,Beauty and Personal Care,Moderately,3,Scarf,78,Yes
+23,Prefer not to say,Clothing and Fashion,Heavily,3,Jewelry,45,Yes
+26,Others,Beauty and Personal Care,Occasionally,3,Hat,73,Yes
+30,Female,Beauty and Personal Care,Moderately,3,Dress,61,Yes
+37,Female,Clothing and Fashion,Heavily,3,Blouse,22,Yes
+26,Female,Beauty and Personal Care,Occasionally,3,Hat,38,Yes
+46,Female,others,Rarely,1,Scarf,38,Yes
+36,Female,others,Never,4,Sneakers,100,Yes
+40,Female,Home and Kitchen,Moderately,2,Shirt,64,Yes
+41,Male,Clothing and Fashion,Rarely,3,T-shirt,55,Yes
+34,Male,others,Moderately,2,Gloves,91,Yes
+29,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,3,Skirt,38,Yes
+35,Male,Clothing and Fashion,Rarely,3,Sandals,97,Yes
+32,Male,Clothing and Fashion,Moderately,3,Jacket,22,Yes
+41,Male,Beauty and Personal Care;Clothing and Fashion;others,Heavily,2,Skirt,92,Yes
+35,Female,Home and Kitchen;others,Moderately,2,Handbag,84,Yes
+36,Female,Groceries and Gourmet Food;Home and Kitchen;others,Moderately,1,Handbag,93,Yes
+46,Female,others,Moderately,4,Jacket,50,Yes
+39,Female,Home and Kitchen,Rarely,3,Scarf,64,Yes
+48,Male,Beauty and Personal Care,Occasionally,1,Shorts,61,Yes
+25,Male,others,Occasionally,4,Sunglasses,48,Yes
+38,Male,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,3,T-shirt,45,Yes
+26,Male,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Occasionally,3,Belt,88,Yes
+40,Female,Beauty and Personal Care,Rarely,3,Sneakers,57,Yes
+49,Female,Groceries and Gourmet Food;Home and Kitchen;others,Heavily,2,Hat,68,Yes
+30,Male,Clothing and Fashion,Occasionally,1,Gloves,94,Yes
+24,Female,Clothing and Fashion,Moderately,2,Pants,41,Yes
+23,Female,Beauty and Personal Care;Home and Kitchen,Heavily,1,Socks,83,Yes
+27,Male,Clothing and Fashion,Occasionally,4,Jacket,22,Yes
+28,Male,others,Moderately,2,Shoes,74,Yes
+23,Male,others,Moderately,2,Jeans,90,Yes
+46,Female,Home and Kitchen,Occasionally,2,Socks,79,Yes
+27,Male,others,Heavily,3,Sandals,28,Yes
+20,Female,Home and Kitchen,Moderately,3,Scarf,88,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion,Heavily,4,Blouse,26,Yes
+29,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Moderately,2,Jewelry,27,Yes
+29,Female,Clothing and Fashion,Moderately,3,Sweater,83,Yes
+57,Female,Home and Kitchen,Heavily,3,Gloves,39,Yes
+25,Female,Beauty and Personal Care,Moderately,1,Sunglasses,89,Yes
+23,Female,Beauty and Personal Care;others,Occasionally,2,Coat,68,Yes
+15,Male,Clothing and Fashion;others,Heavily,2,Dress,90,Yes
+39,Male,Clothing and Fashion;others,Moderately,2,Skirt,34,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion,Heavily,3,Pants,51,Yes
+25,Female,Beauty and Personal Care,Heavily,3,Sweater,45,Yes
+37,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,2,Hoodie,88,Yes
+23,Female,Beauty and Personal Care;Home and Kitchen,Occasionally,2,Coat,85,Yes
+23,Female,Clothing and Fashion;Home and Kitchen,Rarely,3,Jewelry,100,Yes
+23,Female,Clothing and Fashion;Home and Kitchen,Occasionally,3,Belt,42,Yes
+23,Female,Beauty and Personal Care,Occasionally,2,Sandals,53,Yes
+21,Female,Clothing and Fashion;Home and Kitchen,Moderately,4,Sunglasses,86,Yes
+21,Female,Clothing and Fashion,Moderately,1,Sweater,66,Yes
+34,Female,Beauty and Personal Care,Occasionally,2,Belt,100,Yes
+23,Female,Clothing and Fashion;Home and Kitchen,Occasionally,1,Handbag,47,Yes
+23,Female,Beauty and Personal Care,Occasionally,2,Skirt,25,Yes
+23,Prefer not to say,Clothing and Fashion,Occasionally,1,Handbag,51,Yes
+27,Female,Beauty and Personal Care,Rarely,1,Shorts,41,Yes
+23,Female,others,Occasionally,2,Boots,73,Yes
+47,Female,Clothing and Fashion,Heavily,2,Sunglasses,42,Yes
+54,Male,others,Heavily,3,Scarf,20,Yes
+46,Prefer not to say,Beauty and Personal Care;Home and Kitchen,Moderately,3,Jewelry,30,Yes
+38,Female,others,Moderately,3,Handbag,53,Yes
+45,Female,Groceries and Gourmet Food;Home and Kitchen,Moderately,2,Gloves,74,Yes
+34,Male,Clothing and Fashion,Occasionally,2,Jeans,57,Yes
+44,Female,Clothing and Fashion,Occasionally,3,Hat,57,Yes
+23,Female,Clothing and Fashion;Home and Kitchen;others,Rarely,3,Jeans,77,Yes
+32,Female,Beauty and Personal Care,Moderately,5,Pants,40,Yes
+23,Female,Beauty and Personal Care,Occasionally,3,Shorts,46,Yes
+23,Female,Clothing and Fashion,Rarely,2,Pants,78,Yes
+23,Male,Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen,Heavily,1,Backpack,59,Yes
+19,Female,Clothing and Fashion,Moderately,2,Jewelry,75,Yes
+23,Female,Beauty and Personal Care;others,Heavily,1,Sweater,54,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion,Moderately,3,Shoes,42,Yes
+34,Male,Beauty and Personal Care;Home and Kitchen,Occasionally,3,Blouse,44,Yes
+34,Female,Clothing and Fashion,Rarely,4,Jeans,52,Yes
+34,Female,Home and Kitchen;others,Moderately,4,Sunglasses,69,Yes
+23,Prefer not to say,Beauty and Personal Care,Occasionally,3,Jewelry,26,Yes
+45,Female,Clothing and Fashion,Moderately,3,Coat,33,Yes
+23,Female,Groceries and Gourmet Food,Rarely,1,Jewelry,32,Yes
+34,Female,Clothing and Fashion;Home and Kitchen,Moderately,3,Backpack,85,Yes
+37,Female,Beauty and Personal Care,Occasionally,3,Skirt,30,Yes
+34,Female,Clothing and Fashion,Occasionally,2,Shirt,29,Yes
+23,Others,Groceries and Gourmet Food,Never,3,Sweater,95,Yes
+45,Female,others,Occasionally,3,Sneakers,69,Yes
+26,Male,Clothing and Fashion,Never,3,Sandals,69,Yes
+34,Female,Beauty and Personal Care;Clothing and Fashion,Moderately,4,Belt,61,Yes
+21,Prefer not to say,Beauty and Personal Care;Clothing and Fashion,Occasionally,5,Skirt,94,Yes
+23,Prefer not to say,Clothing and Fashion;Home and Kitchen,Moderately,3,Sweater,30,Yes
+41,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,4,Skirt,45,Yes
+32,Female,Beauty and Personal Care;Clothing and Fashion,Occasionally,3,Handbag,39,Yes
+23,Female,Beauty and Personal Care,Occasionally,3,Jewelry,51,Yes
+22,Female,Beauty and Personal Care,Occasionally,4,Scarf,37,Yes
+48,Female,Clothing and Fashion,Moderately,2,T-shirt,62,Yes
+32,Male,Groceries and Gourmet Food,Occasionally,3,Coat,85,Yes
+28,Prefer not to say,Beauty and Personal Care,Occasionally,3,T-shirt,33,Yes
+23,Female,Beauty and Personal Care,Occasionally,3,Dress,26,Yes
+23,Female,Beauty and Personal Care,Occasionally,3,Shoes,99,Yes
+26,Female,Clothing and Fashion,Occasionally,3,Handbag,39,Yes
+34,Female,Beauty and Personal Care,Moderately,3,Skirt,20,Yes
+23,Female,Beauty and Personal Care,Heavily,3,Sunglasses,42,Yes
+22,Female,Clothing and Fashion,Occasionally,3,Sandals,74,Yes
+32,Prefer not to say,Clothing and Fashion,Occasionally,4,Shoes,26,Yes
+47,Female,Clothing and Fashion,Moderately,3,T-shirt,53,Yes
+22,Female,Beauty and Personal Care,Occasionally,3,Sneakers,80,Yes
+47,Male,Clothing and Fashion;Home and Kitchen;others,Moderately,2,Hat,98,Yes
+22,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,1,Skirt,95,Yes
+45,Prefer not to say,Groceries and Gourmet Food;Beauty and Personal Care,Never,5,Sweater,44,Yes
+21,Male,others,Rarely,4,Sandals,60,Yes
+27,Others,Beauty and Personal Care;Clothing and Fashion,Heavily,2,Dress,84,Yes
+37,Male,Groceries and Gourmet Food;Home and Kitchen;others,Heavily,1,Sweater,59,Yes
+33,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Moderately,2,Jacket,49,Yes
+22,Others,Beauty and Personal Care,Occasionally,3,Gloves,32,Yes
+25,Male,Clothing and Fashion;Home and Kitchen,Moderately,3,Handbag,29,Yes
+28,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Moderately,1,Dress,22,Yes
+17,Prefer not to say,Clothing and Fashion;Home and Kitchen;others,Never,5,Pants,85,Yes
+16,Male,Clothing and Fashion;others,Heavily,4,Jeans,52,Yes
+32,Male,Groceries and Gourmet Food;Beauty and Personal Care;others,Moderately,1,Pants,89,Yes
+27,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,2,Dress,77,Yes
+18,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion,Heavily,2,Pants,24,Yes
+37,Male,others,Heavily,4,Jewelry,24,Yes
+28,Male,Clothing and Fashion,Heavily,3,Handbag,22,Yes
+48,Female,Beauty and Personal Care,Occasionally,2,Sweater,82,Yes
+50,Female,Home and Kitchen,Moderately,3,Backpack,67,Yes
+24,Female,Clothing and Fashion;Home and Kitchen,Heavily,2,Shorts,74,Yes
+40,Female,Beauty and Personal Care;Clothing and Fashion;others,Never,4,Jewelry,72,Yes
+25,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,3,Sneakers,36,Yes
+31,Male,Beauty and Personal Care;Home and Kitchen;others,Heavily,1,Belt,95,Yes
+18,Female,Clothing and Fashion,Heavily,3,Hoodie,78,Yes
+26,Female,Beauty and Personal Care,Moderately,1,Shirt,82,Yes
+16,Female,Clothing and Fashion;Home and Kitchen,Heavily,3,Pants,70,Yes
+18,Male,Beauty and Personal Care;Clothing and Fashion,Moderately,2,Scarf,41,Yes
+40,Male,Home and Kitchen;others,Moderately,2,Coat,42,Yes
+19,Female,Beauty and Personal Care;Clothing and Fashion,Heavily,1,Coat,50,Yes
+16,Prefer not to say,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Moderately,1,Socks,31,Yes
+43,Male,Groceries and Gourmet Food;Home and Kitchen,Occasionally,2,Sweater,51,Yes
+25,Prefer not to say,Clothing and Fashion;Home and Kitchen;others,Occasionally,3,Shirt,98,Yes
+22,Female,Beauty and Personal Care;Clothing and Fashion;others,Moderately,1,Shirt,86,Yes
+17,Prefer not to say,Clothing and Fashion;others,Moderately,4,Sweater,64,Yes
+34,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,1,Blouse,46,Yes
+30,Prefer not to say,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Moderately,3,Sweater,85,Yes
+31,Others,Home and Kitchen,Occasionally,2,Hat,81,Yes
+31,Female,Clothing and Fashion;Home and Kitchen,Moderately,2,Sweater,59,Yes
+34,Prefer not to say,Beauty and Personal Care,Heavily,5,Hoodie,79,Yes
+26,Female,Clothing and Fashion,Moderately,3,Shorts,33,Yes
+26,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,1,Shorts,47,Yes
+24,Prefer not to say,Clothing and Fashion;others,Rarely,4,Hat,20,Yes
+26,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Rarely,3,Coat,36,Yes
+29,Male,Groceries and Gourmet Food;Beauty and Personal Care;Home and Kitchen,Moderately,1,Sandals,39,Yes
+37,Prefer not to say,Beauty and Personal Care;Clothing and Fashion,Occasionally,2,Skirt,71,Yes
+34,Others,Clothing and Fashion,Moderately,3,Shoes,59,Yes
+31,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,1,Jeans,50,Yes
+27,Male,Beauty and Personal Care;Clothing and Fashion,Moderately,2,Sandals,41,Yes
+23,Male,Clothing and Fashion;Home and Kitchen;others,Occasionally,2,Blouse,59,Yes
+21,Prefer not to say,Beauty and Personal Care;Home and Kitchen;others,Heavily,2,Hat,87,Yes
+53,Male,Groceries and Gourmet Food;Home and Kitchen,Moderately,1,Sweater,68,Yes
+26,Prefer not to say,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;others,Occasionally,2,Skirt,90,Yes
+28,Prefer not to say,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Jeans,71,Yes
+47,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Occasionally,2,Sneakers,64,Yes
+37,Prefer not to say,Clothing and Fashion;Home and Kitchen;others,Heavily,2,Jewelry,76,Yes
+37,Prefer not to say,Groceries and Gourmet Food;Beauty and Personal Care;others,Heavily,1,Jewelry,42,Yes
+39,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Rarely,2,Pants,80,Yes
+40,Prefer not to say,Groceries and Gourmet Food;Clothing and Fashion,Moderately,3,Belt,56,Yes
+23,Female,Groceries and Gourmet Food;Beauty and Personal Care,Moderately,1,Hat,25,Yes
+25,Prefer not to say,Clothing and Fashion;Home and Kitchen;others,Moderately,2,Sneakers,74,Yes
+34,Female,Beauty and Personal Care;Clothing and Fashion,Rarely,1,Pants,30,Yes
+26,Female,Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen;others,Occasionally,2,T-shirt,96,Yes
+31,Prefer not to say,Clothing and Fashion;Home and Kitchen;others,Moderately,3,Sneakers,64,Yes
+26,Female,Clothing and Fashion;Home and Kitchen,Occasionally,2,Shorts,88,Yes
+34,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Occasionally,3,Shoes,88,Yes
+18,Female,Beauty and Personal Care;Clothing and Fashion,Occasionally,1,Gloves,88,Yes
+40,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion,Moderately,2,Socks,36,Yes
+42,Female,Clothing and Fashion;Home and Kitchen;others,Occasionally,2,Dress,40,Yes
+35,Prefer not to say,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Moderately,1,Handbag,39,Yes
+37,Male,Clothing and Fashion;Home and Kitchen;others,Occasionally,2,Belt,40,Yes
+46,Male,Home and Kitchen;others,Rarely,4,Scarf,34,Yes
+24,Prefer not to say,Beauty and Personal Care;Clothing and Fashion,Rarely,2,Sneakers,83,Yes
+35,Prefer not to say,Groceries and Gourmet Food;Beauty and Personal Care,Moderately,2,Sweater,85,Yes
+46,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Coat,27,Yes
+32,Others,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Moderately,1,Jewelry,78,Yes
+35,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Sunglasses,32,Yes
+36,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,1,Shoes,51,Yes
+15,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Scarf,32,Yes
+43,Prefer not to say,Groceries and Gourmet Food;Home and Kitchen;others,Heavily,1,Dress,62,Yes
+20,Prefer not to say,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Moderately,2,T-shirt,29,Yes
+34,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,1,Backpack,69,Yes
+34,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Occasionally,1,Jewelry,25,Yes
+47,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Moderately,2,Jeans,76,Yes
+25,Female,Clothing and Fashion;Home and Kitchen;others,Occasionally,3,Sunglasses,77,Yes
+21,Prefer not to say,Beauty and Personal Care;Clothing and Fashion,Heavily,1,Sweater,33,Yes
+24,Prefer not to say,Clothing and Fashion;Home and Kitchen,Occasionally,1,Shorts,93,Yes
+36,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion,Rarely,1,Jewelry,39,Yes
+46,Male,Clothing and Fashion;Home and Kitchen,Moderately,2,Coat,93,Yes
+27,Male,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,1,Handbag,82,Yes
+25,Male,Clothing and Fashion;Home and Kitchen,Moderately,1,Boots,42,Yes
+43,Male,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Occasionally,2,Gloves,71,Yes
+32,Prefer not to say,Beauty and Personal Care;Clothing and Fashion,Heavily,1,Sweater,86,Yes
+18,Male,Clothing and Fashion;Home and Kitchen,Moderately,3,T-shirt,82,Yes
+45,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Occasionally,3,Shoes,65,Yes
+25,Prefer not to say,Beauty and Personal Care;Clothing and Fashion;others,Heavily,1,Scarf,29,Yes
+45,Male,Clothing and Fashion;Home and Kitchen,Occasionally,3,Sneakers,65,Yes
+32,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Occasionally,2,Dress,88,Yes
+42,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Moderately,2,Belt,46,Yes
+35,Female,Clothing and Fashion;Home and Kitchen,Occasionally,4,Boots,67,Yes
+35,Female,Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen;others,Occasionally,3,Scarf,35,Yes
+52,Male,Groceries and Gourmet Food;Beauty and Personal Care;others,Moderately,1,Boots,66,Yes
+24,Female,Home and Kitchen,Heavily,3,T-shirt,91,Yes
+28,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Backpack,78,Yes
+33,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Sneakers,45,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,5,T-shirt,93,Yes
+21,Female,Beauty and Personal Care;Clothing and Fashion,Moderately,2,Jeans,74,Yes
+34,Female,Home and Kitchen,Occasionally,3,Gloves,55,Yes
+23,Prefer not to say,Clothing and Fashion,Occasionally,2,Hoodie,76,Yes
+34,Prefer not to say,Beauty and Personal Care,Occasionally,5,Sneakers,66,Yes
+34,Female,Home and Kitchen,Moderately,2,Shorts,51,Yes
+25,Female,others,Never,3,Sweater,26,Yes
+32,Male,others,Moderately,2,Jeans,29,Yes
+24,Female,Home and Kitchen,Heavily,2,Jacket,74,Yes
+34,Female,Clothing and Fashion,Never,3,Jewelry,99,Yes
+44,Male,Beauty and Personal Care,Occasionally,3,Backpack,88,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,1,Coat,31,Yes
+23,Female,Clothing and Fashion,Moderately,2,Belt,55,Yes
+34,Female,Beauty and Personal Care,Occasionally,2,Sandals,81,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion,Occasionally,4,Sweater,73,Yes
+36,Female,Home and Kitchen,Occasionally,2,Shorts,91,Yes
+24,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Occasionally,3,Socks,54,Yes
+21,Female,Beauty and Personal Care;Clothing and Fashion;others,Heavily,3,Shirt,40,Yes
+21,Female,Clothing and Fashion,Moderately,2,Pants,59,Yes
+45,Male,Clothing and Fashion,Occasionally,2,Scarf,26,Yes
+21,Female,Beauty and Personal Care,Occasionally,2,Sweater,23,Yes
+23,Female,Clothing and Fashion,Moderately,2,Jeans,87,Yes
+21,Female,Groceries and Gourmet Food;Beauty and Personal Care;Home and Kitchen,Moderately,1,Pants,71,Yes
+34,Female,Clothing and Fashion,Moderately,3,Backpack,91,Yes
+21,Female,Beauty and Personal Care,Rarely,3,Coat,64,Yes
+23,Female,Clothing and Fashion,Occasionally,3,Sandals,94,Yes
+21,Female,Groceries and Gourmet Food;Clothing and Fashion;others,Moderately,4,Shirt,40,Yes
+32,Female,others,Moderately,3,Hat,76,Yes
+35,Prefer not to say,Groceries and Gourmet Food,Occasionally,2,Shirt,86,Yes
+37,Male,Groceries and Gourmet Food;Beauty and Personal Care;Home and Kitchen,Rarely,1,Skirt,92,Yes
+23,Female,Clothing and Fashion,Occasionally,2,Shoes,52,Yes
+33,Others,Clothing and Fashion,Occasionally,2,Coat,28,Yes
+35,Female,Clothing and Fashion;Home and Kitchen,Occasionally,2,Pants,46,Yes
+44,Female,Clothing and Fashion,Occasionally,4,Jewelry,50,Yes
+34,Male,Clothing and Fashion,Moderately,2,Belt,23,Yes
+34,Prefer not to say,Clothing and Fashion,Occasionally,3,Jacket,50,Yes
+34,Female,others,Occasionally,1,Shirt,89,Yes
+34,Female,Clothing and Fashion,Rarely,1,Hoodie,81,Yes
+3,Prefer not to say,Home and Kitchen,Occasionally,2,Sunglasses,69,Yes
+23,Female,Beauty and Personal Care,Occasionally,2,Sunglasses,67,Yes
+33,Female,Clothing and Fashion,Occasionally,1,Dress,20,Yes
+23,Female,Clothing and Fashion,Rarely,3,Boots,29,Yes
+34,Female,Groceries and Gourmet Food;Home and Kitchen,Moderately,2,Shirt,74,Yes
+23,Female,Beauty and Personal Care;Home and Kitchen,Occasionally,4,Shorts,82,Yes
+34,Prefer not to say,Clothing and Fashion,Occasionally,3,Gloves,23,Yes
+23,Female,Clothing and Fashion,Heavily,3,Jewelry,45,Yes
+23,Female,Beauty and Personal Care,Occasionally,3,Boots,21,Yes
+23,Female,Beauty and Personal Care;Home and Kitchen,Moderately,1,Jewelry,31,Yes
+23,Prefer not to say,Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen,Moderately,2,Pants,45,Yes
+45,Female,Beauty and Personal Care;others,Rarely,3,Jewelry,56,Yes
+23,Female,Clothing and Fashion,Moderately,1,Jacket,97,Yes
+34,Prefer not to say,Beauty and Personal Care,Occasionally,3,Blouse,100,Yes
+45,Female,Beauty and Personal Care;Home and Kitchen,Occasionally,3,Blouse,96,Yes
+34,Female,Beauty and Personal Care,Occasionally,2,Gloves,99,Yes
+45,Female,Groceries and Gourmet Food;Clothing and Fashion,Moderately,1,Shorts,91,Yes
+67,Female,Beauty and Personal Care,Moderately,3,Hat,30,Yes
+34,Others,Beauty and Personal Care,Moderately,2,Shoes,65,Yes
+21,Female,Beauty and Personal Care,Moderately,3,Boots,93,Yes
+17,Female,Clothing and Fashion,Moderately,2,Jacket,81,Yes
+34,Female,Clothing and Fashion,Occasionally,3,Jewelry,81,Yes
+46,Prefer not to say,Clothing and Fashion,Occasionally,3,Sunglasses,52,Yes
+54,Female,Clothing and Fashion,Moderately,3,Skirt,88,Yes
+56,Prefer not to say,Clothing and Fashion,Occasionally,3,Jeans,24,Yes
+50,Prefer not to say,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Occasionally,4,Backpack,51,Yes
+56,Prefer not to say,Beauty and Personal Care,Occasionally,3,Backpack,38,Yes
+22,Prefer not to say,Clothing and Fashion,Occasionally,3,Shorts,46,Yes
+25,Prefer not to say,Clothing and Fashion,Moderately,3,Dress,63,Yes
+23,Male,Beauty and Personal Care,Occasionally,3,Scarf,72,Yes
+23,Prefer not to say,Clothing and Fashion,Heavily,3,Jeans,39,Yes
+56,Female,Clothing and Fashion,Occasionally,3,Coat,42,Yes
+56,Female,Beauty and Personal Care;Home and Kitchen,Moderately,3,Sweater,76,Yes
+23,Female,Beauty and Personal Care,Occasionally,3,Sneakers,66,Yes
+56,Female,Beauty and Personal Care;Clothing and Fashion;others,Moderately,3,Scarf,90,Yes
+23,Female,Beauty and Personal Care,Moderately,3,Sweater,56,Yes
+45,Female,Home and Kitchen,Occasionally,3,Jewelry,43,Yes
+23,Female,Beauty and Personal Care,Moderately,3,Handbag,84,Yes
+23,Female,Beauty and Personal Care,Moderately,3,Hoodie,88,Yes
+34,Prefer not to say,Clothing and Fashion,Rarely,3,Hat,88,Yes
+34,Female,Clothing and Fashion,Occasionally,2,Belt,42,Yes
+45,Others,Beauty and Personal Care,Moderately,2,Hoodie,73,Yes
+33,Prefer not to say,Beauty and Personal Care,Moderately,2,Hat,73,Yes
+34,Female,Beauty and Personal Care,Moderately,1,Shoes,44,Yes
+45,Prefer not to say,Beauty and Personal Care,Heavily,3,Sandals,63,Yes
+45,Male,Beauty and Personal Care,Heavily,3,Jacket,68,Yes
+34,Female,Clothing and Fashion,Heavily,3,Sweater,29,Yes
+67,Prefer not to say,Home and Kitchen,Rarely,2,Socks,85,Yes
+34,Female,Beauty and Personal Care,Moderately,4,Sneakers,42,Yes
+45,Others,Beauty and Personal Care,Occasionally,2,Coat,69,Yes
+23,Female,Clothing and Fashion,Occasionally,3,Shirt,62,Yes
+21,Prefer not to say,Clothing and Fashion,Occasionally,3,Backpack,48,Yes
+23,Female,Beauty and Personal Care,Occasionally,4,Boots,68,Yes
+23,Prefer not to say,Beauty and Personal Care;Clothing and Fashion,Occasionally,3,Handbag,36,Yes
+42,Female,Clothing and Fashion,Occasionally,3,Dress,63,Yes
+23,Prefer not to say,Clothing and Fashion,Occasionally,3,Sneakers,39,Yes
+23,Prefer not to say,Beauty and Personal Care,Never,3,Boots,78,Yes
+25,Prefer not to say,Beauty and Personal Care,Moderately,3,Shoes,99,Yes
+40,Male,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Heavily,1,T-shirt,31,Yes
+23,Female,Beauty and Personal Care,Occasionally,3,Boots,45,Yes
+23,Female,Clothing and Fashion,Heavily,3,Pants,30,Yes
+27,Male,Clothing and Fashion,Heavily,2,Shoes,24,Yes
+39,Male,Home and Kitchen,Moderately,1,Shoes,22,Yes
+32,Female,Clothing and Fashion;Home and Kitchen;others,Occasionally,2,T-shirt,63,Yes
+36,Female,Home and Kitchen,Rarely,2,Scarf,40,Yes
+40,Female,Clothing and Fashion,Rarely,4,Shorts,20,Yes
+23,Male,Clothing and Fashion,Moderately,1,Jewelry,20,Yes
+45,Female,Beauty and Personal Care,Moderately,1,T-shirt,80,Yes
+45,Prefer not to say,Clothing and Fashion,Heavily,1,Shirt,87,Yes
+45,Prefer not to say,Beauty and Personal Care,Occasionally,1,Shirt,46,Yes
+45,Prefer not to say,Groceries and Gourmet Food;Clothing and Fashion,Heavily,1,Gloves,49,Yes
+45,Female,Clothing and Fashion,Moderately,4,Scarf,65,Yes
+32,Male,Clothing and Fashion;Home and Kitchen,Occasionally,5,Skirt,62,Yes
+34,Prefer not to say,Home and Kitchen,Rarely,2,Hat,67,Yes
+54,Male,Groceries and Gourmet Food;Clothing and Fashion;Home and Kitchen,Occasionally,3,Hoodie,41,Yes
+25,Male,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,2,Boots,49,Yes
+26,Others,Clothing and Fashion;Home and Kitchen;others,Occasionally,2,Blouse,100,Yes
+36,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Belt,54,Yes
+22,Male,Clothing and Fashion;Home and Kitchen,Occasionally,2,Sunglasses,84,Yes
+34,Female,Clothing and Fashion,Moderately,2,Shorts,41,Yes
+35,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Rarely,3,Gloves,88,Yes
+34,Prefer not to say,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Heavily,4,Sandals,40,Yes
+21,Others,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Never,4,Shirt,39,Yes
+24,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Never,5,Coat,37,Yes
+26,Prefer not to say,Home and Kitchen;others,Never,5,Pants,52,Yes
+36,Male,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Rarely,4,T-shirt,23,Yes
+36,Female,Groceries and Gourmet Food,Occasionally,3,Sneakers,88,Yes
+28,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Occasionally,4,Shorts,84,Yes
+40,Female,Groceries and Gourmet Food;Beauty and Personal Care,Moderately,3,Coat,37,Yes
+50,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Rarely,3,Sandals,51,Yes
+27,Male,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Occasionally,3,Pants,76,Yes
+27,Female,Beauty and Personal Care;Clothing and Fashion,Moderately,4,Sandals,60,Yes
+45,Male,Clothing and Fashion;Home and Kitchen;others,Moderately,3,Gloves,72,Yes
+46,Female,Clothing and Fashion;Home and Kitchen;others,Occasionally,3,T-shirt,45,Yes
+60,Prefer not to say,Home and Kitchen;others,Occasionally,4,Jacket,84,Yes
+32,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Occasionally,4,Blouse,49,Yes
+45,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Rarely,2,Socks,22,Yes
+25,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Occasionally,2,Coat,48,Yes
+37,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Occasionally,3,Dress,37,Yes
+37,Female,Beauty and Personal Care;Clothing and Fashion,Moderately,3,Jacket,27,Yes
+32,Male,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,3,Boots,79,Yes
+56,Male,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Skirt,98,Yes
+34,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Never,2,Sandals,64,Yes
+21,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,1,Coat,32,Yes
+46,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion,Occasionally,2,Hoodie,74,Yes
+21,Male,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,1,Jacket,50,Yes
+31,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion,Moderately,2,Backpack,64,Yes
+36,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen;others,Occasionally,2,Backpack,29,Yes
+35,Female,Beauty and Personal Care;Home and Kitchen,Rarely,1,Belt,62,Yes
+25,Male,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Occasionally,3,Coat,78,Yes
+45,Female,Clothing and Fashion,Occasionally,1,T-shirt,94,Yes
+36,Female,Beauty and Personal Care;Clothing and Fashion,Occasionally,1,Sunglasses,59,Yes
+36,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion,Moderately,2,Sneakers,47,Yes
+43,Male,Beauty and Personal Care,Rarely,1,Gloves,57,Yes
+34,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion,Occasionally,1,Coat,90,Yes
+43,Male,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Shirt,60,Yes
+25,Female,Clothing and Fashion;others,Moderately,2,Sneakers,77,Yes
+43,Female,Beauty and Personal Care;Clothing and Fashion;Home and Kitchen,Moderately,2,Scarf,41,Yes
+56,Female,Groceries and Gourmet Food;Beauty and Personal Care;Clothing and Fashion,Occasionally,2,Jewelry,48,Yes
+32,Female,Groceries and Gourmet Food;Beauty and Personal Care,Occasionally,3,Jacket,65,Yes
+21,Male,Clothing and Fashion,Occasionally,2,Jeans,62,Yes
+34,Male,Clothing and Fashion,Occasionally,3,Shoes,99,Yes
+34,Female,Groceries and Gourmet Food;Clothing and Fashion,Never,2,Hoodie,58,Yes
+34,Female,Clothing and Fashion,Occasionally,4,Backpack,43,Yes
+45,Prefer not to say,Clothing and Fashion,Heavily,3,Sneakers,93,Yes
+45,Female,Beauty and Personal Care,Occasionally,4,Blouse,50,Yes
+45,Prefer not to say,Home and Kitchen,Moderately,4,Pants,88,Yes
+45,Female,Groceries and Gourmet Food,Moderately,3,Skirt,33,Yes
+45,Female,Beauty and Personal Care,Occasionally,3,T-shirt,99,Yes
+45,Prefer not to say,Clothing and Fashion,Occasionally,4,Jacket,76,Yes
+25,Female,Beauty and Personal Care,Moderately,3,Scarf,97,Yes
+45,Prefer not to say,Beauty and Personal Care,Occasionally,3,Pants,68,Yes
+60,Male,Beauty and Personal Care,Heavily,3,Sneakers,79,Yes
+26,Male,Groceries and Gourmet Food,Occasionally,3,Jeans,86,Yes
+25,Prefer not to say,Beauty and Personal Care,Moderately,3,Hat,68,Yes
+45,Female,Beauty and Personal Care,Moderately,4,Skirt,52,Yes
+12,Female,Beauty and Personal Care,Moderately,4,Sandals,90,Yes
+56,Prefer not to say,Beauty and Personal Care,Occasionally,4,Sandals,41,Yes
+45,Female,Beauty and Personal Care,Moderately,2,Sweater,80,Yes
+41,Female,Beauty and Personal Care,Moderately,3,Sweater,100,Yes
+23,Female,Beauty and Personal Care,Moderately,3,Jacket,77,Yes
+23,Female,Beauty and Personal Care,Occasionally,3,Shorts,78,Yes
+45,Female,Beauty and Personal Care,Moderately,3,Socks,94,Yes
+25,Female,Beauty and Personal Care,Occasionally,4,Socks,23,Yes
+25,Male,Beauty and Personal Care,Moderately,2,Hoodie,20,Yes
+23,Female,Clothing and Fashion,Occasionally,3,Socks,86,Yes
+23,Female,Clothing and Fashion,Occasionally,3,Boots,60,Yes
+23,Female,Clothing and Fashion,Occasionally,3,Shirt,70,Yes
+23,Female,Beauty and Personal Care,Moderately,3,Belt,39,Yes
+23,Prefer not to say,Beauty and Personal Care;Home and Kitchen,Moderately,3,Backpack,37,Yes
+23,Female,Beauty and Personal Care,Moderately,5,Boots,29,Yes
+23,Female,Groceries and Gourmet Food,Moderately,4,Coat,35,Yes
+23,Female,Beauty and Personal Care,Moderately,4,Hoodie,83,Yes
+23,Female,Beauty and Personal Care,Occasionally,4,Shoes,77,Yes
+25,Female,Beauty and Personal Care,Heavily,3,Shoes,37,Yes
+23,Female,Beauty and Personal Care,Moderately,4,Jewelry,69,Yes
+23,Female,Clothing and Fashion,Heavily,3,Dress,66,Yes
+23,Female,Beauty and Personal Care,Occasionally,3,Boots,26,Yes
+23,Female,Beauty and Personal Care;Clothing and Fashion;others,Heavily,2,Hat,63,Yes
+23,Female,Clothing and Fashion,Moderately,3,Backpack,38,Yes
